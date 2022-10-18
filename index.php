@@ -1,5 +1,5 @@
 <?php
 
-include_once("dj ique.html");
+include_once("biz.html");
 
 ?>
